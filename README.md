@@ -32,6 +32,8 @@ Some things that i know are missing/ should be added / should be done:
 
 -A better gravity system
 
+-A better spawner
+
 -...
 
 ![Screenshot (173)](https://github.com/user-attachments/assets/62925be4-4b4d-4891-b3d8-3bce4b906546)

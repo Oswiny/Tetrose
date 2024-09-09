@@ -33,6 +33,7 @@ Some things that i know are missing/ should be added / should be done:
 -A better spawner
 
 -...
+project is on a little break i have some other projects that i want to do
 
 ![Screenshot (173)](https://github.com/user-attachments/assets/62925be4-4b4d-4891-b3d8-3bce4b906546)
 ![Screenshot (176)](https://github.com/user-attachments/assets/d0a171bc-88bd-4b8e-b7d6-7551bfe69d54)

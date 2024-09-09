@@ -22,11 +22,9 @@ Some things that i know are missing/ should be added / should be done:
 
 -Better UI
 
--Ability To Change Themes (color of pieces) (Currently working on)
-
 -A few more game modes
 
--Ability To Change Keybinds (Currently working on)
+-Ability To Change Keybinds
 
 -Countdown before starting a game
 
